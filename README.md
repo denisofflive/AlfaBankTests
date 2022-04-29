@@ -16,7 +16,7 @@
 - [x] Вернуться обратно
 - [x] Открыть вкладку Ещё, выбрать Самозанятые и проверить текст Самозанятые
 
-## Проект реализован с использованием
+## Проект реализован с использованием:
 Java Gradle IntelliJ IDEA Selenide JUnit5 Allure Report
 
 ![This is an image](/design/Java.png)![This is an image](/design/Gradle.png)![This is an image](/design/Intelij_IDEA.png)![This is an image](/design/Selenide.png)![This is an image](/design/JUnit5.png)![This is an image](/design/Allure_Report.png)
